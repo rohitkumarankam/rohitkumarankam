@@ -5,6 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/rohit%20kumar%20ankam-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black)](https://www.linkedin.com/in/rohitkumarankam/) 
 [![Email](https://img.shields.io/badge/root@rka.li-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black)](mailto:root@rka.li)
 
-[![Rohit Kumar Ankam's GitHub stats](https://stats.rka.li/api?username=rohitkumarankam&count_private=true&show_icons=true&theme=chartreuse-dark)](https://twitter.com/rohitkumarankam)
+[![Rohit Kumar Ankam's GitHub stats](https://rohitkumarankam.s3.ap-south-2.amazonaws.com/images/github-stats.svg)](https://twitter.com/rohitkumarankam)
 
-[![Top Langs](https://stats.rka.li/api/top-langs/?username=rohitkumarankam&theme=chartreuse-dark&langs_count=8&layout=compact)](https://twitter.com/rohitkumarankam)
+[![Top Langs](https://rohitkumarankam.s3.ap-south-2.amazonaws.com/images/github-langs.svg)](https://twitter.com/rohitkumarankam)
